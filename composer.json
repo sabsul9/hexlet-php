@@ -7,5 +7,7 @@
             "email": "sabina.sultanalieva@etu.univ-lyon1.fr"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.52"
+    }
 }
