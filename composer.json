@@ -1,0 +1,11 @@
+{
+    "name": "lucky/hexlet-php",
+    "description": "php-setup-environment/lessons/composer/theory_unit",
+    "authors": [
+        {
+            "name": "Sabina",
+            "email": "sabina.sultanalieva@etu.univ-lyon1.fr"
+        }
+    ],
+    "require": {}
+}
